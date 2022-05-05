@@ -1,0 +1,13 @@
+name: flutter_monorepo
+
+packages:
+  - packages/**
+  - projects/**
+
+scripts:
+  run:flutter_demo:
+    run: melos exec -- flutter run lib/main.dart
+    select-package:
+      scope: 'flutter_demo'
+
+  analyze: melos exec -- "dart analyze ."

@@ -13,3 +13,7 @@
 - docs: 项目文档
 - examples: 示例代码 常用代码模板和代码块提炼
 - tests: 测试模块
+
+### 初始化安装melos
+
+dart pub global activate melos
