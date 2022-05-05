@@ -14,6 +14,10 @@
 - examples: 示例代码 常用代码模板和代码块提炼
 - tests: 测试模块
 
+### Flutter CLI命令
+
+- https://docs.flutter.dev/reference/flutter-cli
+
 ### 初始化安装melos
 
 dart pub global activate melos
