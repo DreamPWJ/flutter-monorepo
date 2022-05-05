@@ -20,4 +20,8 @@
 
 ### 初始化安装melos
 
-dart pub global activate melos
+- flutter pub global activate melos
+
+### 执行melos命令
+
+- flutter pub global run melos bootstrap
