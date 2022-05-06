@@ -1,6 +1,6 @@
 name: athena_common_flutter
-description: A new Flutter package project.
-version: 0.0.1
+description: Flutter多项目共享业务通用包
+version: 1.0.0
 homepage:
 
 environment:
