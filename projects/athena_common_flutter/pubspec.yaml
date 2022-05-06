@@ -1,6 +1,6 @@
-name: athena_utils
-description: 通用工具包
-version: 1.0.0
+name: athena_common_flutter
+description: A new Flutter package project.
+version: 0.0.1
 homepage:
 
 environment:

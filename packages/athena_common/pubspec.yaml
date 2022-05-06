@@ -1,5 +1,5 @@
-name: athena_utils
-description: 通用工具包
+name: athena_common
+description: 通用公共包
 version: 1.0.0
 homepage:
 

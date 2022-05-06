@@ -31,6 +31,14 @@ dependencies:
     sdk: flutter
 
   # 业务无关的可复用的基础通用核心包组合引入
+  athena_core:
+    path: ../../packages/athena_core
+  athena_common:
+    path: ../../packages/athena_common
+  athena_components:
+    path: ../../packages/athena_components
+  athena_constants:
+    path: ../../packages/athena_constants
   athena_utils:
     path: ../../packages/athena_utils
 

@@ -8,13 +8,41 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.8.2"
+  athena_common:
+    dependency: "direct main"
+    description:
+      path: "../../packages/athena_common"
+      relative: true
+    source: path
+    version: "0.0.1"
+  athena_components:
+    dependency: "direct main"
+    description:
+      path: "../../packages/athena_components"
+      relative: true
+    source: path
+    version: "0.0.1"
+  athena_constants:
+    dependency: "direct main"
+    description:
+      path: "../../packages/athena_constants"
+      relative: true
+    source: path
+    version: "0.0.1"
+  athena_core:
+    dependency: "direct main"
+    description:
+      path: "../../packages/athena_core"
+      relative: true
+    source: path
+    version: "0.0.1"
   athena_utils:
     dependency: "direct main"
     description:
       path: "../../packages/athena_utils"
       relative: true
     source: path
-    version: "0.0.1"
+    version: "1.0.0"
   boolean_selector:
     dependency: transitive
     description:
