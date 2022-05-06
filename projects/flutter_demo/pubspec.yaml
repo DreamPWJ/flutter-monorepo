@@ -30,6 +30,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # 业务无关的可复用的基础通用核心包组合引入
+  athena_utils:
+    path: ../../packages/athena_utils
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.

@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:athena_utils/athena_utils.dart';
 
 void main() {
   runApp(const MyApp());
+  print("业务无关的可复用的基础通用核心包组合调用示例");
+  print(Calculator().addOne(1));
 }
 
 class MyApp extends StatelessWidget {
